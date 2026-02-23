@@ -1,4 +1,4 @@
-# desafioTerraformLocalStack
+# desafioTerraformLocalStack (S3)
 
 ##Entender o que é Terraform e LocalStack - 
 Instalar e configurar ambos
